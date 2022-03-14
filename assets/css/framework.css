@@ -179,11 +179,6 @@ Margin
     flex-direction: row;
     flex-wrap: wrap;
 }
-/* 
-[class^="col"] {
-    padding: 0 1rem;
-} */
-
 
 [class*="col-"] {
     flex: 0 0 auto;

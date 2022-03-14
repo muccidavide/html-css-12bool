@@ -1,0 +1,15 @@
+body{
+    font-size: 0.7rem;
+}
+[class^="col"] {
+    padding: 1rem;
+    background-color: blue;
+    border: 1px solid white;
+    color: white;
+
+}
+
+.bg-green{
+background-color: greenyellow;
+border: 1px solid blue;
+}
