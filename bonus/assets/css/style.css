@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+[class^="col"] {
+    padding: 0.1rem;
+}
+
+#header-site{
+    border-bottom: 1px solid black;
+}
+
+header>.container>.row img{
+    height: 100px;
+}
