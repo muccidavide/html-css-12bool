@@ -28,6 +28,10 @@
     display: none;
 }
 
+.d-block {
+    display: block;
+}
+
 /* Tipography */
 
 .display-1 {
@@ -48,6 +52,10 @@
 /*********
 Margin 
 *********/
+
+.m-auto{
+    margin: 0 auto;
+}
 .m-1 {
     margin: 1rem;
 }
